@@ -8,4 +8,4 @@ estou aprendendo com a [Alura](Https://www.alura.com.br)
 
  brayan.martareli.alves@gmail.br
 
-![](https://tenor.com/pt-BR/view/sung-jin-woo-solo-leveling-gif)
+![]( https://tenor.com/pt-BR/view/sung-jin-woo-solo-leveling-gif )
