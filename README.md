@@ -1,5 +1,7 @@
 Bem Vindo ao meu perfil
 
+
+
 Meu nome é Brayan
 
 estou aprendendo com a [Alura](Https://www.alura.com.br)
@@ -9,4 +11,5 @@ estou aprendendo com a [Alura](Https://www.alura.com.br)
  brayan.martareli.alves@gmail.br
 
 
-![ovj839o79l561](https://github.com/user-attachments/assets/2fa8a0a5-15e8-473d-94af-f35159e95c21)
+![image](https://github.com/user-attachments/assets/357d3046-1e9a-44a5-8399-e0444d4f0087)
+![](https://tenor.com/pt-BR/view/cachorro-chupetao-gif-10590221803060317041)
